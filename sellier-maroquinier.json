@@ -1,9 +1,5 @@
 {
   "poles": [
-     {
-      "pole_label": "Pôle Vide",
-      "pole_offers": []
-     },
     {
       "pole_label": "Pôle Normandie",
       "pole_offers": [
