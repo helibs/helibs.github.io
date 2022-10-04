@@ -1,11 +1,7 @@
 {
-  "poles": [
-    {
-      "pole_offers": [
-        {
-          "empty": "Il n’y a aucune offre correspondant à ce parcours de formation pour le moment."
-        }
-  ]
+"poles": [
+{
+"empty": "Il n’y a aucune offre correspondant à ce parcours de formation pour le moment."
 }
 ]
 }
